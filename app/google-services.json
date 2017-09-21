@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "YOUR_GOOGLE_PROJECT_NUMBER",
-    "firebase_url": "YOUR_FIREBASE_URL",
-    "project_id": "YOUR_GOOGLE_PROJECT_ID",
-    "storage_bucket": "YOUR_STORAGE_BUCKET_HOST"
+    "project_number": "968465219550",
+    "firebase_url": "https://androidnotifier-609b4.firebaseio.com",
+    "project_id": "androidnotifier-609b4",
+    "storage_bucket": "androidnotifier-609b4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "YOUR_MOBILE_SDK_APP_ID",
+        "mobilesdk_app_id": "1:968465219550:android:417599cbd89142db",
         "android_client_info": {
-          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.push"
+          "package_name": "com.ibm.mysampleapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "YOUR_OAUTH_CLIENT_ID",
+          "client_id": "968465219550-vei37qb37ut8re8va716049dumsj9hpu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY"
+          "current_key": "AIzaSyAw0AQ_iGz63vKXJ1efgaNOvd5--pOxeoc"
         }
       ],
       "services": {
@@ -39,20 +39,20 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "YOUR_MOBILE_SDK_APP_ID",
+        "mobilesdk_app_id": "1:968465219550:android:7434c1807fe53b6a",
         "android_client_info": {
-          "package_name": "com.ibm.mysampleapp"
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.push"
         }
       },
       "oauth_client": [
         {
-          "client_id": "YOUR_OAUTH_CLIENT_ID",
+          "client_id": "968465219550-vei37qb37ut8re8va716049dumsj9hpu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "YOUR_API_KEY"
+          "current_key": "AIzaSyAw0AQ_iGz63vKXJ1efgaNOvd5--pOxeoc"
         }
       ],
       "services": {
